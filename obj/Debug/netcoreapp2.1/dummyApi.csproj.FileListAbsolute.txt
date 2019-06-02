@@ -1,0 +1,14 @@
+/home/anas/Code/dummyApi/bin/Debug/netcoreapp2.1/dummyApi.deps.json
+/home/anas/Code/dummyApi/bin/Debug/netcoreapp2.1/dummyApi.runtimeconfig.json
+/home/anas/Code/dummyApi/bin/Debug/netcoreapp2.1/dummyApi.runtimeconfig.dev.json
+/home/anas/Code/dummyApi/bin/Debug/netcoreapp2.1/dummyApi.dll
+/home/anas/Code/dummyApi/bin/Debug/netcoreapp2.1/dummyApi.pdb
+/home/anas/Code/dummyApi/obj/Debug/netcoreapp2.1/dummyApi.csprojAssemblyReference.cache
+/home/anas/Code/dummyApi/obj/Debug/netcoreapp2.1/dummyApi.csproj.CoreCompileInputs.cache
+/home/anas/Code/dummyApi/obj/Debug/netcoreapp2.1/dummyApi.RazorAssemblyInfo.cache
+/home/anas/Code/dummyApi/obj/Debug/netcoreapp2.1/dummyApi.RazorAssemblyInfo.cs
+/home/anas/Code/dummyApi/obj/Debug/netcoreapp2.1/dummyApi.AssemblyInfoInputs.cache
+/home/anas/Code/dummyApi/obj/Debug/netcoreapp2.1/dummyApi.AssemblyInfo.cs
+/home/anas/Code/dummyApi/obj/Debug/netcoreapp2.1/dummyApi.RazorTargetAssemblyInfo.cache
+/home/anas/Code/dummyApi/obj/Debug/netcoreapp2.1/dummyApi.dll
+/home/anas/Code/dummyApi/obj/Debug/netcoreapp2.1/dummyApi.pdb
